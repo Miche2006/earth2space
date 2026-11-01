@@ -1,0 +1,7 @@
+site,corps,pente_deg,rugosite_m,temperature_c,lat,lon,lithologie
+Jezero Crater (Cible),Mars,5.2,0.45,-60.0,18.38,77.58,Argiles & Basalte
+Île Devon (Canada),Terre,6.1,0.50,-16.0,75.43,-89.78,Cratère d'impact sur dolomie
+Désert d'Atacama (Chili),Terre,4.8,0.30,14.0,-24.50,-69.25,Évaporites & sols hyperarides
+Vallée de la Mort (USA),Terre,5.5,0.40,25.0,36.53,-116.93,Sédiments alluviaux & argiles
+Askja (Islande),Terre,9.2,0.85,-2.0,65.03,-16.75,Champs de laves basaltiques
+Chott el-Djerid (Tunisie),Terre,1.2,0.15,22.0,33.70,8.43,Plaine saline & sulfates
